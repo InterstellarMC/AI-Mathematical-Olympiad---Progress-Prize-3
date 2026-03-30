@@ -1,0 +1,16 @@
+# --- LLM & Inference ---
+unsloth==2025.12.9
+vllm==0.11.2
+openai_harmony==0.0.8
+torch==2.9.0+cu128
+
+# --- Execution & Sandbox ---
+jupyter_client
+nbformat
+ipykernel
+
+# --- Data Science ---
+numpy==2.0.2
+pandas
+polars
+sympy
