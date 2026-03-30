@@ -1,0 +1,11 @@
+# Large Model Weights (DO NOT UPLOAD)
+gpt-oss-120b/
+*.safetensors
+*.bin
+
+# Local Execution
+logs/
+*.parquet
+submission.csv
+.ipynb_checkpoints/
+__pycache__/
